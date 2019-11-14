@@ -1,0 +1,40 @@
+*{margin:0;
+	padding: 0;
+}
+html{scroll-behavior: smooth;}
+body{background-color: gold}
+.header{
+	
+}
+.nav{
+	background-color: black !important;
+}
+.name{
+	color:gold !important;
+	font-family: 'Mr Dafoe', cursive;
+	font-size: 35px;
+}
+.nava{
+	color: gold !important;
+}
+.caja{
+	text-align: center;
+	border: solid;
+}
+.caja1{
+	background-color: gold;
+	border: solid;
+	display: flex;
+}
+.foto{
+	width: 100%;
+
+}
+.foto1{
+	width: 20%;
+}
+
+#detalle{
+	margin-left: 0;
+	margin-right: 0;
+}
